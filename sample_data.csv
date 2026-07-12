@@ -1,0 +1,2 @@
+Employee Name,Department,Item Requested,Quantity,Estimated Cost,Approval Level,Initial Status,Manager Approval,Finance Approval,Final Status,PO Status
+Brian Nelson,Engineering,Engineering Monitor,2,800,Manager + Finance,Pending,Approved,Approved,Fully Approved,Issued
