@@ -353,6 +353,50 @@ The fresh end-to-end workflow test passed successfully.
 - Integrate with accounting software for automatic invoice generation
 - Build a more mobile-friendly interface for on-the-go request submission
 
+## Project Screenshots
+
+### Airtable Base Overview
+![Airtable Base Overview](screenshots/01-airtable-base-overview.png)
+
+### Purchase Request Form
+![Purchase Request Form](screenshots/02-purchase-request-form.png)
+
+### Purchase Requests Table
+![Purchase Requests Table Part 1](screenshots/03-purchase-requests-table-part-1.png)
+
+![Purchase Requests Table Part 2](screenshots/04-purchase-requests-table-part-2.png)
+
+![Purchase Requests Table Part 3](screenshots/05-purchase-requests-table-part-3.png)
+
+### Approval Level Formula
+![Approval Level Formula](screenshots/06-approval-level-formula.png)
+
+### Automation Overview
+![Automation Overview](screenshots/07-automation-overview.png)
+
+### Manager Approval Email
+![Manager Approval Email](screenshots/08-manager-approval-email.png)
+
+### Finance Approval Email
+![Finance Approval Email](screenshots/09-finance-approval-email.png)
+
+### Brian Nelson Request Record
+![Brian Nelson Request Record](screenshots/14-brian-nelson-request-record.png)
+
+### Fully Approved Record
+![Fully Approved Record](screenshots/15-fully-approved-record.png)
+
+### Generated Purchase Order
+![Generated Purchase Order](screenshots/16-generated-purchase-order.png)
+
 ---
 
-*Built by Nnoli Godslove Chito | AI Automation
+
+## Live Project Demo
+
+View the live read-only Airtable base:
+
+[Open the Procurement & Purchase Approval System in Airtable](https://airtable.com/appfUlQvGJfi8f1FN/shrJVkat2Q7qgAVfb)
+
+---
+Built by Nnoli Godslove Chito | AI Automation
